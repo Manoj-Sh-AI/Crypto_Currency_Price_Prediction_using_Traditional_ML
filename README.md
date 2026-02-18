@@ -105,6 +105,7 @@ Each cryptocurrency is trained and evaluated **independently** using identical m
 </p>
 <p align="center">
   <b>Figure 1:</b> Prediction vs Actual for 1 year
+  <br>
   <b>Figure 2:</b> Prediction vs Actual for 10 Days
 </p>
 
