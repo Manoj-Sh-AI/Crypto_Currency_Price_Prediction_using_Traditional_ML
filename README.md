@@ -103,8 +103,12 @@ Each cryptocurrency is trained and evaluated **independently** using identical m
 <img src="https://github.com/Manoj-Sh-AI/Crypto_Currency_Price_Prediction_using_Traditional_ML/blob/1fdef077025d8f932b8352c338b1deeb73912da3/images/output.png?raw=true" width="100%" />
 <b>Figure 1:</b> Prediction vs Actual for 1 year
 <br>
+<br>
+<br>
 <img src="https://github.com/Manoj-Sh-AI/Crypto_Currency_Price_Prediction_using_Traditional_ML/blob/0502847d1c0fa5a5278f671f3dc30c255aa47915/images/output_2.png?raw=true" width="100%" />
 <b>Figure 2:</b> Prediction vs Actual for 10 Days
+<br>
+<br>
 <br>
 
 
